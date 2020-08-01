@@ -8,3 +8,4 @@ dependencies:
 - pip:
   - tensorflow==2.1.0
   - tensorflow-addons==0.7.0
+  - trainer==0.0.1
