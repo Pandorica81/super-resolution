@@ -1,4 +1,5 @@
 ![Travis CI](https://travis-ci.com/krasserm/super-resolution.svg?branch=master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pandorica81/super-resolution/master)
 
 # Single Image Super-Resolution with EDSR, WDSR and SRGAN
 
